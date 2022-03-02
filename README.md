@@ -1,0 +1,2 @@
+# location
+front angular
